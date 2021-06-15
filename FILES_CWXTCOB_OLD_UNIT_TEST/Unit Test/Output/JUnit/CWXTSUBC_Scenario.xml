@@ -1,0 +1,41 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?totaltestVersion 20.2.1.v20200331-1253_109?>
+<!--Topaz for Total Test 20.2.1.v20200331-1253_109 01-Apr-2020 16:42:11-->
+<testsuites>
+  <testsuite errors="0" failures="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" tests="4">
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00001: Check for RETURN_CODE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00002: Check for EMP_TYPE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00003: Check for SALES_AMOUNT"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00004: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" tests="4">
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00001: Check for RETURN_CODE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00002: Check for EMP_TYPE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00003: Check for SALES_AMOUNT"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00004: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" tests="4">
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00001: Check for RETURN_CODE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00002: Check for EMP_TYPE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00003: Check for SALES_AMOUNT"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00004: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" tests="4">
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00001: Check for RETURN_CODE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00002: Check for EMP_TYPE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00003: Check for SALES_AMOUNT"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00004: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" tests="4">
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" name="00001: Check for RETURN_CODE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" name="00002: Check for EMP_TYPE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" name="00003: Check for SALES_AMOUNT"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" name="00004: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6" tests="4">
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6" name="00001: Check for RETURN_CODE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6" name="00002: Check for EMP_TYPE"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6" name="00003: Check for SALES_AMOUNT"/>
+    <testcase classname="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6" name="00004: Check for COMM_TOTAL"/>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.6.3.v20210526-0511_172?>
+<!--Topaz for Total Test 20.6.3.v20210526-0511_172 15-Jun-2021 10:49:12-->
+<testExecutions version="1">
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FILES_CWXTCOB_OLD_UNIT_TEST\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
+    <testCase name="Unit Test: Test Case: CWXTCOBCase1 for program: CWXTCOB" duration="0" />
+  </file>
+</testExecutions>

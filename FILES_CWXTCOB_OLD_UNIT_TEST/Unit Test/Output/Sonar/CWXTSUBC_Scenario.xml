@@ -1,0 +1,41 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?totaltestVersion 20.2.1.v20200331-1253_109?>
+<!--Topaz for Total Test 20.2.1.v20200331-1253_109 01-Apr-2020 16:42:11-->
+<testExecutions version="1">
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FILES_CWXTCOB_UNIT_TEST\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00001: Check for RETURN_CODE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00002: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00003: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00004: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FILES_CWXTCOB_UNIT_TEST\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00001: Check for RETURN_CODE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00002: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00003: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00004: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FILES_CWXTCOB_UNIT_TEST\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00001: Check for RETURN_CODE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00002: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00003: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00004: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FILES_CWXTCOB_UNIT_TEST\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00001: Check for RETURN_CODE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00002: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00003: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00004: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FILES_CWXTCOB_UNIT_TEST\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5.00001: Check for RETURN_CODE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5.00002: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5.00003: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00005: CWXTSUBCCase5.00004: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FILES_CWXTCOB_UNIT_TEST\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6.00001: Check for RETURN_CODE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6.00002: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6.00003: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FILES_CWXTCOB_UNIT_TEST.CWXTSUBC_Scenario.00006: CWXTSUBCCase6.00004: Check for COMM_TOTAL"/>
+  </file>
+</testExecutions>

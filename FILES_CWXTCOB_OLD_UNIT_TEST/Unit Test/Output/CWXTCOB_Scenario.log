@@ -1,0 +1,39 @@
+10:48:59.933 INFO      TOPAZ            ***************************************
+10:48:59.933 INFO      TOPAZ            ** Execution from Topaz with options **
+10:48:59.934 INFO      TOPAZ            ***************************************
+10:48:59.934 INFO      TOPAZ            Using repository: false
+10:48:59.934 INFO      TOPAZ            ***************************************
+10:48:59.935 INFO      Engine           Test Scenario execution started
+10:48:59.935 INFO      Engine           Using context settings:
+  Engine Version                : 20.6
+  Environment id                : 192.168.96.130:16196
+  Environment type              : Batch
+  Operating system              : ZOS
+  zOS agent version             : NEWEST
+  Server address                : 192.168.96.130
+  Server port                   : 16196
+  Job execution timeout seconds : 300
+  Job info interval seconds     : 3
+  Socket read timeout           : 120
+  Encoding                      : ISO8859-1
+  Codepage                      : IBM-1047
+  Host user Id                  : HUK0320
+  Use Repository Server         : false
+10:48:59.935 INFO      Engine           Setting variables from context and context data extensions
+10:48:59.935 INFO      Engine             id: environmentId      value: 192.168.96.130:16196
+10:48:59.935 INFO      Engine             id: environmentType    value: BATCH
+10:48:59.935 INFO      Engine             id: userId             value: HUK0320
+10:48:59.935 INFO      Engine             id: accountingInfo     value: 
+10:48:59.935 INFO      Unittest         Interpreting Unittest of module: CWXTCOB testscenario path: CWXTCOB_Scenario.testscenario
+10:48:59.954 INFO      Unittest         Static JCL is being used, path is: C:/Users/cpwr01/Compuware/Workbench/workspace/FILES_CWXTCOB_OLD_UNIT_TEST/Unit Test/JCL/Runner.jcl
+10:49:04.923 INFO      CWCC             Sending Job execution request to Host 
+10:49:10.320 INFO      CWCC             Job execution completed with status:
+  Job status     : COMPLETED
+  Job status msg : Job HUK0320R(J0158136) ended with return code: 0000
+  Job name       : HUK0320R
+  Job id         : J0158136
+  Return code    : 0000
+  Abend code     : 
+  Abend reason   : 
+10:49:12.369 INFO      Unittest         Execution completed
+10:49:12.369 INFO      Engine           Test Scenario execution ended
