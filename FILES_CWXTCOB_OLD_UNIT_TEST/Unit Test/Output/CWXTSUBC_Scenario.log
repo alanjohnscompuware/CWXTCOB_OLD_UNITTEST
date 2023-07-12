@@ -1,0 +1,43 @@
+17:14:52.642 INFO      TOPAZ            ***************************************
+17:14:52.642 INFO      TOPAZ            ** Execution from Topaz with options **
+17:14:52.642 INFO      TOPAZ            ***************************************
+17:14:52.642 INFO      TOPAZ            Using repository: true
+17:14:52.643 INFO      TOPAZ            Repository URL: http://192.168.101.100:48226/totaltestapi/
+17:14:52.643 INFO      TOPAZ            ***************************************
+17:14:52.643 INFO      Engine           Test Scenario execution started
+17:14:52.643 INFO      Engine           Using context settings:
+  Engine Version                : 20.12.1.v20220909-1355_70
+  Environment id                : 198.147.191.81:16196
+  Environment type              : Batch
+  Operating system              : ZOS
+  zOS agent version             : NEWEST
+  Server address                : 198.147.191.81
+  Server port                   : 16196
+  Job execution timeout seconds : 300
+  Job info interval seconds     : 3
+  Socket read timeout           : 120
+  Encoding                      : ISO8859-1
+  Codepage                      : IBM-1047
+  Host user Id                  : HUK0320
+  Use Repository Server         : true
+  Account Information           : 
+  Dataset High Level Qualifier  : 
+17:14:52.643 INFO      Engine           Setting variables from context and context data extensions
+17:14:52.644 INFO      Engine             id: environmentId      value: 198.147.191.81:16196
+17:14:52.644 INFO      Engine             id: environmentType    value: BATCH
+17:14:52.644 INFO      Engine             id: userId             value: HUK0320
+17:14:52.644 INFO      Engine             id: accountingInfo     value: 
+17:14:52.644 INFO      Engine             id: datasetHQL         value: 
+17:14:52.644 INFO      Unittest         Interpreting Unittest of module: CWXTSUBC testscenario path: CWXTSUBC_Scenario.testscenario
+17:14:52.754 INFO      Unittest         Static JCL is being used, path is: C:/Users/cpwr01/git/CWXTCOB_OLD_UNITTEST/FILES_CWXTCOB_OLD_UNIT_TEST/Unit Test/JCL/Runner.jcl
+17:14:58.277 INFO      CWCC             Sending Job execution request to Host 
+17:15:03.730 INFO      CWCC             Job execution completed with status:
+  Job status     : COMPLETED
+  Job status msg : Job HUK0320R(J0320333) ended with return code: 0000
+  Job name       : HUK0320R
+  Job id         : J0320333
+  Return code    : 0000
+  Abend code     : 
+  Abend reason   : 
+17:15:06.535 INFO      Unittest         Execution completed
+17:15:06.535 INFO      Engine           Test Scenario execution ended

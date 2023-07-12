@@ -1,0 +1,42 @@
+10:00:26.980 INFO      TOPAZ            ***************************************
+10:00:26.980 INFO      TOPAZ            ** Execution from Topaz with options **
+10:00:26.980 INFO      TOPAZ            ***************************************
+10:00:26.981 INFO      TOPAZ            Using repository: false
+10:00:26.981 INFO      TOPAZ            ***************************************
+10:00:26.981 INFO      Engine           Test Scenario execution started
+10:00:26.982 INFO      Engine           Using context settings:
+  Engine Version                : 20.10.3.v20220524-1628_164
+  Environment id                : 192.168.96.142:16196
+  Environment type              : Batch
+  Operating system              : ZOS
+  zOS agent version             : NEWEST
+  Server address                : 192.168.96.142
+  Server port                   : 16196
+  Job execution timeout seconds : 300
+  Job info interval seconds     : 3
+  Socket read timeout           : 120
+  Encoding                      : ISO8859-1
+  Codepage                      : 1047
+  Host user Id                  : HUK0320
+  Use Repository Server         : false
+  Account Information           : 
+  Dataset High Level Qualifier  : 
+10:00:26.982 INFO      Engine           Setting variables from context and context data extensions
+10:00:26.982 INFO      Engine             id: environmentId      value: 192.168.96.142:16196
+10:00:26.982 INFO      Engine             id: environmentType    value: BATCH
+10:00:26.982 INFO      Engine             id: userId             value: HUK0320
+10:00:26.982 INFO      Engine             id: accountingInfo     value: 
+10:00:26.983 INFO      Engine             id: datasetHQL         value: 
+10:00:26.983 INFO      Unittest         Interpreting Unittest of module: CWXTCOB testscenario path: CWXTCOB_Scenario2.testscenario
+10:00:27.566 INFO      Unittest         Using JCL skeleton to submit JCL
+10:00:33.613 INFO      CWC2             Sending Job execution request to Host 
+10:00:39.025 INFO      CWC2             Job execution completed with status:
+  Job status     : ABEND
+  Job status msg : Job HUK0320R(J0281356) ended with ABEND code: S0C4
+  Job name       : HUK0320R
+  Job id         : J0281356
+  Return code    : 
+  Abend code     : S0C4
+  Abend reason   : U0000
+10:00:42.045 INFO      Unittest         Execution completed
+10:00:42.045 INFO      Engine           Test Scenario execution ended

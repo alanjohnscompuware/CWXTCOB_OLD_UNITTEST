@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.12.1.v20220909-1355_70?>
+<!--Topaz for Total Test 20.12.1.v20220909-1355_70 10-Oct-2022 17:15:06-->
+<testExecutions version="1">
+  <file path="C:\Users\cpwr01\git\CWXTCOB_OLD_UNITTEST\FILES_CWXTCOB_OLD_UNIT_TEST\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase name="Unit Test: Test Case: CWXTSUBCCase1 for program: CWXTSUBC" duration="0" />
+    <testCase name="Unit Test: Test Case: CWXTSUBCCase2 for program: CWXTSUBC" duration="0" />
+    <testCase name="Unit Test: Test Case: CWXTSUBCCase3 for program: CWXTSUBC" duration="0" />
+    <testCase name="Unit Test: Test Case: CWXTSUBCCase4 for program: CWXTSUBC" duration="0" />
+    <testCase name="Unit Test: Test Case: CWXTSUBCCase5 for program: CWXTSUBC" duration="0" />
+  </file>
+</testExecutions>

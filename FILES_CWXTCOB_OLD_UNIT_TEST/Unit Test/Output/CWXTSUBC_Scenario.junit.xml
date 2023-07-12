@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.12.1.v20220909-1355_70?>
+<!--Topaz for Total Test 20.12.1.v20220909-1355_70 10-Oct-2022 17:15:06-->
+<testsuites>
+  <testsuite name="CWXTSUBC_Scenario" errors="0" tests="1" failures="0">
+    <testcase classname="CWXTSUBC_Scenario" name="Unit Test: Test Case: CWXTSUBCCase1 for program: CWXTSUBC" />
+    <testcase classname="CWXTSUBC_Scenario" name="Unit Test: Test Case: CWXTSUBCCase2 for program: CWXTSUBC" />
+    <testcase classname="CWXTSUBC_Scenario" name="Unit Test: Test Case: CWXTSUBCCase3 for program: CWXTSUBC" />
+    <testcase classname="CWXTSUBC_Scenario" name="Unit Test: Test Case: CWXTSUBCCase4 for program: CWXTSUBC" />
+    <testcase classname="CWXTSUBC_Scenario" name="Unit Test: Test Case: CWXTSUBCCase5 for program: CWXTSUBC" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.10.3.v20220524-1628_164?>
+<!--Topaz for Total Test 20.10.3.v20220524-1628_164 26-Jun-2022 10:04:15-->
+<testsuites>
+  <testsuite name="CWXTCOB_Scenario" errors="0" tests="1" failures="1">
+    <testcase classname="CWXTCOB_Scenario" name="Unit Test: Test Case: CWXTCOBCase1 for program: CWXTCOB">
+      <error>Error      Linkage field: Message: S000</error>
+    </testcase>
+  </testsuite>
+</testsuites>

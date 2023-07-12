@@ -1,11 +1,11 @@
-10:48:59.933 INFO      TOPAZ            ***************************************
-10:48:59.933 INFO      TOPAZ            ** Execution from Topaz with options **
-10:48:59.934 INFO      TOPAZ            ***************************************
-10:48:59.934 INFO      TOPAZ            Using repository: false
-10:48:59.934 INFO      TOPAZ            ***************************************
-10:48:59.935 INFO      Engine           Test Scenario execution started
-10:48:59.935 INFO      Engine           Using context settings:
-  Engine Version                : 20.6
+10:04:01.670 INFO      TOPAZ            ***************************************
+10:04:01.670 INFO      TOPAZ            ** Execution from Topaz with options **
+10:04:01.670 INFO      TOPAZ            ***************************************
+10:04:01.670 INFO      TOPAZ            Using repository: false
+10:04:01.670 INFO      TOPAZ            ***************************************
+10:04:01.671 INFO      Engine           Test Scenario execution started
+10:04:01.671 INFO      Engine           Using context settings:
+  Engine Version                : 20.10.3.v20220524-1628_164
   Environment id                : 192.168.96.130:16196
   Environment type              : Batch
   Operating system              : ZOS
@@ -16,24 +16,27 @@
   Job info interval seconds     : 3
   Socket read timeout           : 120
   Encoding                      : ISO8859-1
-  Codepage                      : IBM-1047
+  Codepage                      : 1047
   Host user Id                  : HUK0320
   Use Repository Server         : false
-10:48:59.935 INFO      Engine           Setting variables from context and context data extensions
-10:48:59.935 INFO      Engine             id: environmentId      value: 192.168.96.130:16196
-10:48:59.935 INFO      Engine             id: environmentType    value: BATCH
-10:48:59.935 INFO      Engine             id: userId             value: HUK0320
-10:48:59.935 INFO      Engine             id: accountingInfo     value: 
-10:48:59.935 INFO      Unittest         Interpreting Unittest of module: CWXTCOB testscenario path: CWXTCOB_Scenario.testscenario
-10:48:59.954 INFO      Unittest         Static JCL is being used, path is: C:/Users/cpwr01/Compuware/Workbench/workspace/FILES_CWXTCOB_OLD_UNIT_TEST/Unit Test/JCL/Runner.jcl
-10:49:04.923 INFO      CWCC             Sending Job execution request to Host 
-10:49:10.320 INFO      CWCC             Job execution completed with status:
-  Job status     : COMPLETED
-  Job status msg : Job HUK0320R(J0158136) ended with return code: 0000
+  Account Information           : 
+  Dataset High Level Qualifier  : 
+10:04:01.671 INFO      Engine           Setting variables from context and context data extensions
+10:04:01.671 INFO      Engine             id: environmentId      value: 192.168.96.130:16196
+10:04:01.671 INFO      Engine             id: environmentType    value: BATCH
+10:04:01.671 INFO      Engine             id: userId             value: HUK0320
+10:04:01.671 INFO      Engine             id: accountingInfo     value: 
+10:04:01.671 INFO      Engine             id: datasetHQL         value: 
+10:04:01.671 INFO      Unittest         Interpreting Unittest of module: CWXTCOB testscenario path: CWXTCOB_Scenario.testscenario
+10:04:01.689 INFO      Unittest         Using JCL skeleton to submit JCL
+10:04:07.938 INFO      CWCC             Sending Job execution request to Host 
+10:04:13.456 INFO      CWCC             Job execution completed with status:
+  Job status     : ABEND
+  Job status msg : Job HUK0320R(J0281358) ended with ABEND code: U4038
   Job name       : HUK0320R
-  Job id         : J0158136
-  Return code    : 0000
-  Abend code     : 
-  Abend reason   : 
-10:49:12.369 INFO      Unittest         Execution completed
-10:49:12.369 INFO      Engine           Test Scenario execution ended
+  Job id         : J0281358
+  Return code    : 
+  Abend code     : S000
+  Abend reason   : U4038
+10:04:15.786 INFO      Unittest         Execution completed
+10:04:15.787 INFO      Engine           Test Scenario execution ended

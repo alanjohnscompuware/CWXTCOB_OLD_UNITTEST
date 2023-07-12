@@ -4,12 +4,12 @@
     <testsuiteResult errorCount="1" failureCount="0" testCount="0">
       <testscenarioResults errorCount="1" failureCount="0" testCount="0">
         <testcaseResults errorCount="1">
-          <results message="S000" name="Job ended with abend S000" result="Error"/>
-          <testcase href="CWXTCOB_Scenario.archive#Unit%20Test/Scenarios/CWXTCOB_Scenario.testscenario%23CWXTCOBCase1"/>
+          <results message="S0C4" name="Job ended with abend S0C4" result="Error"/>
+          <testcase href="CWXTCOB_Scenario2.archive#Unit%20Test/Scenarios/CWXTCOB_Scenario.testscenario%23CWXTCOBCase1"/>
         </testcaseResults>
-        <testscenario href="CWXTCOB_Scenario.archive#Unit%20Test/Scenarios/CWXTCOB_Scenario.testscenario"/>
+        <testscenario href="CWXTCOB_Scenario2.archive#Unit%20Test/Scenarios/CWXTCOB_Scenario2.testscenario"/>
       </testscenarioResults>
-      <testsuite href="CWXTCOB_Scenario.archive#%5C.temp%5CCWXTCOB_Scenario.testsuite"/>
+      <testsuite href="CWXTCOB_Scenario2.archive#%5C.temp%5CCWXTCOB_Scenario2.testsuite"/>
     </testsuiteResult>
   </result>
 </result:DocumentRoot>

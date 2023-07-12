@@ -1,0 +1,14 @@
+
+***************** Output from TTTRUNNR *****************
+
+ STTR043I Initializing simulation environment for: COBOL V4
+ STTR043I Initializing simulation environment for: COBOL V5
+ STTR011I totaltest zTargetRunner v170200 on 2022-06-26 05:00.33��������������������������������������
+ STTR012I Options set to EXIT(),STUBS(ON),ARGTYPE(��������)
+ STTR013I Processing test suite CWXTCOB_Scenario2
+ STTR014I Processing test scenario CWXTCOB_Scenario2
+ STTR028I Processing test case CWXTCOBCase1
+ STTR006I Executing target CWXTCOB#C���������������������������������������������������
+ CEE3207S The system detected a data exception (System Completion Code=0C7).
+          From compile unit CWXTCOB at entry point CWXTCOB at compile unit offset +000006C2 at entry offset +000006C2
+          at address 38E676C2.
